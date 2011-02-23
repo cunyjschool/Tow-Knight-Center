@@ -14,7 +14,7 @@
 		
 		<div class="post" id="post-<?php the_id(); ?>">
 			
-			<img class="towknight-logo" src="<?php bloginfo('template_directory'); ?>/img/towknight2_h500.png" width="500px" height="86px" />
+			<a href="<?php bloginfo('url'); ?>"><img class="towknight-logo" src="<?php bloginfo('template_directory'); ?>/img/towknight2_h500.png" width="500px" height="86px" /></a>
 			
 			<div class="entry">
 				<?php the_content(); ?>
