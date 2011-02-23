@@ -1,6 +1,6 @@
 <?php
 
-define( 'TOWKNIGHTCENTER_VERSION', '0.0' );
+define( 'TOWKNIGHTCENTER_VERSION', '0.1' );
 
 if ( !class_exists( 'towknightcenter' ) ) {
 	
