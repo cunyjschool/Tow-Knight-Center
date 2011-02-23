@@ -24,6 +24,10 @@ a img {
 	border: none;
 }
 
+h1, h2, h3, h4, h5, h6 {
+
+}
+
 .wrap {
 	margin-left: auto;
 	margin-right: auto;
@@ -36,7 +40,7 @@ a img {
 }
 
 .header .school-logo {
-	margin-left: 150px;
+	margin-left: 225px;
 }
 
 .main .wrap {
@@ -46,6 +50,20 @@ a img {
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
+}
+
+.content {
+	font-size: 14px;
+	line-height: 22px;
+}
+
+.content h3 {
+	font-size: 22px;
+	margin-bottom: 5px;
+}
+
+.content h3, .content h4 {
+	font-weight: normal;
 }
 
 .footer p.copy {

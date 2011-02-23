@@ -17,7 +17,7 @@
 	
 	<div class="wrap">
 		
-		<a href="http://www.journalism.cuny.edu/"><img class="school-logo" src="<?php bloginfo('template_directory'); ?>/img/cunyjschool_h350.png" width="350px" height="69px" /></a>
+		<a href="http://www.journalism.cuny.edu/"><img class="school-logo" src="<?php bloginfo('template_directory'); ?>/img/cunyjschool_h275.png" width="275px" height="55px" /></a>
 		
 	</div>
 	
